@@ -1,0 +1,62 @@
+
+Java Web Project:(Team work)
+=================
+
+1. Java8  + SERVLET + JDBC OR JPA
+2. HTML5, CSS, JS and JSP
+3. JUNIT4 
+
+--------------------------------
+1. All requirement should be implemented
+2. Best Practices
+Naming Convections, Utility Classes, Beans/Pojo , Layered Architecture,MVC Architecture
+Validations *****
+
+package Names:
+--------------
+lower case 
+syn:  domain.company.project.module.submodule
+	 com.cagemini.fms.booking.TicketBooking
+
+
+classes/interface:
+------------------
+InitCap
+
+
+Booking , Ticket ,Flight, EmployeeFeedback 
+
+IBookingService , BookingServiceImpl
+
+IBookingService service = new BookingServiceImpl();
+
+
+
+
+
+
+
+Task1:
+Tables , POJO 
+
+
+Project Creations?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
